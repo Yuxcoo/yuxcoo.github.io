@@ -1,2 +1,6 @@
-http://example.com/post/4a17b156.html
-http://example.com/
+https://yuxcoo.github.io/about/index.html
+https://yuxcoo.github.io/tags/index.html
+https://yuxcoo.github.io/link/index.html
+https://yuxcoo.github.io/categories/index.html
+https://yuxcoo.github.io/post/4a17b156.html
+https://yuxcoo.github.io/
