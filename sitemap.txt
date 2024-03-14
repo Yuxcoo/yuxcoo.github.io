@@ -1,9 +1,11 @@
+https://yuxcoo.github.io/post/fbbe638c.html
 https://yuxcoo.github.io/post/4a12443.html
 https://yuxcoo.github.io/about/index.html
 https://yuxcoo.github.io/tags/index.html
 https://yuxcoo.github.io/link/index.html
 https://yuxcoo.github.io/categories/index.html
 https://yuxcoo.github.io/
-https://yuxcoo.github.io/tags/Verilog/
+https://yuxcoo.github.io/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/
 https://yuxcoo.github.io/tags/%E7%94%B5%E5%AD%90/
+https://yuxcoo.github.io/tags/Verilog/
 https://yuxcoo.github.io/categories/%E6%97%A7%E6%97%A5/
