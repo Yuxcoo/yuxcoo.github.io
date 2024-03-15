@@ -732,6 +732,7 @@ clickShowText:
     - SQL
     - C
     - C++
+    - R
   fontSize: 15px
   random: true
   mobile: false
