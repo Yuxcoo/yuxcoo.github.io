@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://yuxcoo.github.io/post/SQLba.html</loc>
+    
+    <lastmod>2024-03-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuxcoo.github.io/post/linuxba.html</loc>
+    
+    <lastmod>2024-03-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuxcoo.github.io/post/datainstall.html</loc>
+    
+    <lastmod>2024-03-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://yuxcoo.github.io/post/typechocreate.html</loc>
     
     <lastmod>2024-03-15</lastmod>
@@ -110,6 +137,20 @@
 
   
   <url>
+    <loc>https://yuxcoo.github.io/tags/%E5%9F%BA%E7%AB%99/</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuxcoo.github.io/tags/%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80/</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://yuxcoo.github.io/tags/blog/</loc>
     <lastmod>2024-03-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -131,14 +172,21 @@
   </url>
   
   <url>
-    <loc>https://yuxcoo.github.io/tags/%E5%9F%BA%E7%AB%99/</loc>
+    <loc>https://yuxcoo.github.io/tags/vim/</loc>
     <lastmod>2024-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://yuxcoo.github.io/tags/%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80/</loc>
+    <loc>https://yuxcoo.github.io/tags/shell/</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuxcoo.github.io/tags/linux/</loc>
     <lastmod>2024-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -173,6 +221,34 @@
   </url>
   
   <url>
+    <loc>https://yuxcoo.github.io/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuxcoo.github.io/tags/SQL/</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuxcoo.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuxcoo.github.io/tags/%E6%95%B0%E6%8D%AE%E6%93%8D%E4%BD%9C/</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://yuxcoo.github.io/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/</loc>
     <lastmod>2024-03-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -197,6 +273,13 @@
   
   <url>
     <loc>https://yuxcoo.github.io/categories/%E6%97%A7%E6%97%A5/</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuxcoo.github.io/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/</loc>
     <lastmod>2024-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
